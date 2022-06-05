@@ -11,9 +11,9 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 #-------------------------------
 # Author Settings
 author:
-  author__name: Camelia Mendes
-  author__bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
-  author__avatar: '/images/01-1.jpg'
+  author__name: BORASTAR
+  author__bio: Enjoy your life.
+  #author__avatar: '/images/01-1.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
