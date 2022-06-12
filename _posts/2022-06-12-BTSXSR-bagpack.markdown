@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  BTSXSR bagpack
-description: 쌤소나이트의 첫번째 BTS 콜라보 
+description: '쌤소나이트의 첫번째 BTS 콜라보 '
 date:   2022-06-12 15:01:35 +0300
 image:  '/images/post_0612_0001.jpg'
 tags:   [fashion, bag, Dynamite]
