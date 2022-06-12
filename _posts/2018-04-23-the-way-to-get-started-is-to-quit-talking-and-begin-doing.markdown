@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  The way to get started is to quit talking and begin doing
-description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
-date:   2020-04-23 15:01:35 +0300
-image:  '/images/15.jpg'
-tags:   [fashion, story, rest]
+title:  쌤소나이트레드 BTS X SR 백팩
+description: 쌤소나이트의 첫번째 BTS 콜라보 
+date:   2022-06-12 15:01:35 +0300
+image:  '/images/post_0612_0001.jpg'
+tags:   [fashion, bag, Dynamite]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Jeroen Bendeler](https://unsplash.com/photos/_w7CkrJdn1Q) diversity and empowerment.
 
@@ -31,7 +31,7 @@ Phosfluorescently engage worldwide methodologies with web-enabled technology. In
 
 Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or "organic" sources.
 
-![River]({{site.baseurl}}/images/15-2.jpg)
+![River]({{site.baseurl}}/images/post_0612_0001.jpg)
 *Photo by [Jairph](https://unsplash.com/photos/tf3kYSFjEJ0) on [Unsplash](https://unsplash.com/)*
 
 Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
