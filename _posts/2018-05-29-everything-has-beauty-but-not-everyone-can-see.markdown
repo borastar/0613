@@ -14,7 +14,7 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
 
-![Beach]({{site.baseurl}}/images/12-1.jpg#wide)
+![Beach]({{site.baseurl}}/images/Screenshot_20201130-001043_YouTube.jpg#wide)
 *Photo by [Luke McKeown](https://unsplash.com/photos/nlyWZtWTzCo) on [Unsplash](https://unsplash.com/)*
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
