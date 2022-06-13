@@ -7,16 +7,14 @@ image:  '/images/0613-0001.jpg'
 tags:   [BTS, 퍼즐, MapOfTheSoul:7]
 ---
 
+testtest
 
 ![City]({{site.baseurl}}/images/0613-0002.jpg)
 *Photo [직소퍼즐 구매하기 클릭](https://link.coupang.com/a/poxc6)
 
-
 ### BTS 액자 직소퍼즐 7종 세트
 오늘의 BTS 인기 상품 입니다.
 방탄소년단 굿즈의 데일리 랭킹에 따른 제품 추천입니다.
-
-
 
 [구매하러 가기](https://link.coupang.com/a/poxc6) 
 
