@@ -6,7 +6,6 @@ date:   2022-06-13 18:05:55 +0300
 image:  '/images/0613-0001.jpg'
 tags:   [BTS, 퍼즐, MapOfTheSoul:7]
 ---
-
 testtest
 
 ![City]({{site.baseurl}}/images/0613-0002.jpg)
