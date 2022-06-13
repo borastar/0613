@@ -1,0 +1,24 @@
+---
+layout: post
+title:  BTS Puzzle
+description: 'BTS 핫브루 바닐라라떼'
+date:   2022-06-13 10:05:55 +0300
+image:  '/images/0613-0005.jpg'
+tags:   [BTS, 퍼즐, MapOfTheSoul:7]
+---
+직소퍼즐 정보
+
+![City]({{site.baseurl}}/images/0613-0004.jpg)
+![City]({{site.baseurl}}/images/0613-0006.jpg)
+
+[구매하기 클릭](https://link.coupang.com/a/poxc6)
+
+### BTS 광고 상품
+오늘의 BTS 인기 상품 입니다.
+방탄소년단 굿즈의 데일리 랭킹에 따른 제품 추천입니다.
+
+[상품 상세정보 보러가기](https://link.coupang.com/a/pqtV6) 
+
+### POST
+
+이 페이지는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
