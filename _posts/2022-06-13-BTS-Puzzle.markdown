@@ -3,7 +3,7 @@ layout: post
 title:  BTS Puzzle
 description: '방탄 멤버들의 사진으로 만든 직소 퍼즐입니다.'
 date:   2022-06-13 18:05:55 +0300
-image:  '/images/0613-0001.jpg'
+image:  '/images/0613_0001.jpg'
 tags:   [BTS, 퍼즐, MapOfTheSoul:7]
 ---
 testtest
