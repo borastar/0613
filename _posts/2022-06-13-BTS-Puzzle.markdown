@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  BTS Puzzle
+title:  '품절임박-직소퍼즐-BTS Puzzle'
 description: '방탄 멤버들의 사진으로 만든 직소 퍼즐입니다.'
 date:   2022-06-13 18:05:55 +0300
 image:  '/images/0613-0001.jpg'
